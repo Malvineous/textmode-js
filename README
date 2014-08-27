@@ -1,0 +1,13 @@
+TextMode-JS
+Copyright 2014 Adam Nielsen <malvineous@shikadi.net>
+http://github.com/Malvineous/textmode-js
+
+This is a simple HTML5 Canvas utility script that draws onto a canvas as if it
+is a CGA text mode display.
+
+Blinking can be turned on or off, and like the hardware, turning off blinking
+allows you to use all 16 background colours.
+
+The default font is 9x16 VGA, but others can be substituted easily.
+
+See example-*.html for example use.

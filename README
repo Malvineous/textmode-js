@@ -10,4 +10,7 @@ allows you to use all 16 background colours.
 
 The default font is 9x16 VGA, but others can be substituted easily.
 
-See example-*.html for example use.
+See example-*.html for example use, or these live demos:
+
+  http://malvineous.github.io/textmode-js/example-stalac.html
+  http://malvineous.github.io/textmode-js/example-404.html
